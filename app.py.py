@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -348,7 +348,7 @@ elif page == "📊 Prediction":
             st.rerun()
 
     else:
-=======
+
 import streamlit as st
 import pandas as pd
 import numpy as np
